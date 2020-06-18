@@ -1,0 +1,5 @@
+name: SNItemCode
+api: [3.0.0, 4.0.0]
+main: SONIC14\ItemCode
+version: 1.0
+author: SONIC14

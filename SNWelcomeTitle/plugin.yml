@@ -1,0 +1,5 @@
+name: SNWelcomeTitle
+main: SONIC14\WelcomeTitle
+api: [3.0.0, 4.0.0]
+version: 1.0
+author: SONIC14
